@@ -1,7 +1,12 @@
 # assignment4
 
 # assignment 00-05
+
+My project is built on Google Colab. You can access it here:
+
 [Click here to open in Google Colab](https://colab.research.google.com/drive/1uCRPJZduycEUH16bAiOkATqC_NoKu477?usp=sharing)
+
+# Mad Libs Game
 
 My project is built on Google Colab. You can access it here:
 
